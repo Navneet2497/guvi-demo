@@ -1,4 +1,7 @@
 this is the first file 
 this is the second line 
 This is the third line 
+This line is master branch 1
+This line is master branch 2
+This line is master branch 3
 
